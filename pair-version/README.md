@@ -2,10 +2,10 @@
 
 This folder contains the task manager app built using an AI pair programming assistant.
 
-**Tool used:** [replace with your tool — GitHub Copilot / Cursor]
-**Time to build:** [replace with your time]
-**Suggestions accepted:** [approximate number]
-**Suggestions rejected:** [approximate number]
+**Tool used:**  Cursor
+**Time to build:** 20 mins
+**Suggestions accepted:** 16
+**Suggestions rejected:** 5
 **Live URL:** [replace with your deployment URL]
 
 ## Notes

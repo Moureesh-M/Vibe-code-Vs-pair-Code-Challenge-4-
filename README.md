@@ -13,30 +13,31 @@ You will be building a standalone Task Manager. You must strictly follow the req
 
 ## Live Deployments
 
-- Vibe version: ADD YOUR LINK HERE
-- Pair version: ADD YOUR LINK HERE
+- Vibe version: fantastic-kheer-4b3b15.netlify.app
+- Pair version: endearing-cucurucho-525f02.netlify.app
 
 ## Comparison Table
 
-Fill out the following table after completing both versions:
+iI'll out the following table after completing both versions:
 
-| Dimension | Vibe Version | Pair Version |
-| :--- | :--- | :--- |
-| **Speed** | | |
-| **Control** | | |
-| **Code Quality** | | |
-| **Explainability** | | |
-| **Editability** | | |
+| Dimension         | Vibe Version | Pair Version |
+|                   |              |              |
+| **Speed**         |    Very fast |     Moderate |
+| **Control**       |      Limited |       Strong | 
+| **Code Quality**  |       Decent |         High |
+| **Explainability**|      Minimal |     Detailed |
+| **Editability**   |     Moderate |         Easy |
+
 
 ## When I Would Use Each Tool
 
-- 
-- 
+Vibe Coding - When I need Speed , Quick Prototype
+Pair Coding - When Control and Code quality is important
 
 ## Tools Used
 
-- **Vibe tool used:** 
-- **Pair tool used:** 
+- **Vibe tool used:** Vo 
+- **Pair tool used:** Cursor
 
 ## How to Submit
 
